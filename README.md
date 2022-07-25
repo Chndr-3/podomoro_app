@@ -1,7 +1,7 @@
 # podomoro_app
 
-A new Flutter project.
-
+A simple mobile app that used to be a timer for Pomodoro Technique
+Podomoro Technique is when we spend 25 times to focus and 5 times to take a break
 ## Getting Started
 
 This project is a starting point for a Flutter application.
