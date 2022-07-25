@@ -165,7 +165,7 @@ resetTimer();
     setState(() {
       timer!.cancel();
       seconds = 0;
-      minutes = 25;
+      timeSet();
     });
   }
 
